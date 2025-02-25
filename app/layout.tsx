@@ -1,6 +1,6 @@
 import './globals.css';
 import type { Metadata } from 'next';
-import { Inter } from '@next/font/google';
+import { Inter } from 'next/font/google';
 import { SidebarNav } from '@/components/sidebar';
 import { MobileHeader } from '@/components/mobile-header';
 import { DesktopHeader } from '@/components/desktop-header';
